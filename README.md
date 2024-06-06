@@ -36,5 +36,5 @@ The code is released under the GPL-3.0-only license. See `LICENSE.md` for more d
 
 ## Acknowledgements
 
-Project carried out using PRISMA Products, © of the Italian Space Agency (ASI), delivered under a license to use by ASI. 
+Project carried out using PRISMA Products, © of the Italian Space Agency (ASI), delivered under a license to use by ASI. The CRF derives from the work in "A Semisupervised CRF Model for CNN-Based Semantic Segmentation With Sparse Ground Truth", written by L. Maggiolo, D. Marcos, G. Moser, and S.B. Serpico, IEEE Trans. on Geoscience and Remote Sensing, 2021. Please cite this paper when using the CRF.
 
